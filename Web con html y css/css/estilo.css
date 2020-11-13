@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(96, 96, 252);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+header{
+    text-align: center;
+    font-size: 28px;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+
+.navegacion{
+    font-size: 22px;
+    border: black;
+    border-radius: 50px;
+    border-style: solid;
+    float: left;
+    padding-right: 2%;
+    font-family: fantasy;
+    height: 900px;
+    margin-right: 25px;
+}
+
+a{
+    border: black;
+    border-style: solid;
+    padding: 5px;
+    background-color: teal;
+    color: black;
+}
+
+li{
+    padding: 10px;
+}
+
+.imagenes{
+    float: right;
+    height: 100px;
+    width: 2%;
+    margin-right: 600px;
+    margin-left: 200px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.tcentral{
+    text-align: justify;
+    margin: 50px;
+    margin-right: 400px;
+    padding-right: 250px;
+    padding-left: 400px;
+}
+
+footer {
+    border: black;
+    color: white;
+    border-style: solid;
+    width: 100%;
+    text-align: left;
+    display: inline-block;
+    padding: 20pxx;
+    padding-left: 50px;
+    margin: 5px;
+    background-color:black;
+    border-radius: 30px;
+
+} 
